@@ -9,3 +9,5 @@ using NAudio:
 Todo: what if audiodevice[0] is changed when recording
 
 Todo: save the record correctly if PC is rebooted before recording is stopped
+
+Todo: use mp3 not wav
